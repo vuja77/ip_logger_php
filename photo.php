@@ -1,5 +1,5 @@
 <?php
-$img = 'test.png';
+$img = 'first.png';
 header('Content-Type: image/jpeg');
 readfile($img);
 
